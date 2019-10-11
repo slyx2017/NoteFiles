@@ -1,0 +1,105 @@
+VS中默认的常用快捷键。可以根据自己的习惯，自己设置快捷方式，工具->选项->环境->键盘。
+
+编辑相关的键盘快捷键　
+
+　　Ctrl + K，Ctrl + C = 注释选定行
+
+　　Ctrl + K，Ctrl + U = 取消选定行的注释　　
+
+　　Ctrl + E, Ctrl + D = 格式化全部代码
+
+　　Ctrl + E, Ctrl + F ----格式化选中的代码
+
+　　Shift + End = 从头到尾选择整行
+
+　　Shift + Home = 从尾到头选择整行
+
+　　CTRL + SHIFT + END选择至文档末尾
+
+　　CTRL + SHIFT + HOME选择至文档末尾开始
+
+　　Ctrl + Delete = 删除光标右侧的所有字
+
+　　Ctrl + J = 代码录入智能提示
+
+　　Ctrl + . = 引用智能提示　　
+
+　　Ctrl + M,M =快速显示或隐藏当前代码段
+
+　　CTRL + M, CTRL + O = 折叠代码定义
+
+　　CTRL + M, CTRL + L = 展开代码定义
+
+　　Ctrl+ U =转小写
+
+  　  CTRL + SHIFT + U = 转大写
+
+　　Shift + F12 = 查找所有引用
+
+　　Ctrl + F = 显示查找对话框
+
+　　Ctrl + H = 显示替换对话框
+
+　　Ctrl + G = 跳转到行号或行　
+
+窗口操作快捷键
+
+Ctrl+W,W: 浏览器窗口
+
+Ctrl+W,S: 解决方案管理器
+
+Ctrl+W,C: 类视图
+
+Ctrl+W,E: 错误列表
+
+Ctrl+W,O: 输出视图
+
+Ctrl+W,P: 属性窗口
+
+Ctrl+W,T: 任务列表
+
+Ctrl+W,X: 工具箱
+
+Ctrl+W,B: 书签窗口
+
+Ctrl+W,U: 文档大纲
+
+Ctrl+D,B: 断点窗口
+
+Ctrl+D,I: 即时窗口
+
+Ctrl+Tab: 活动窗体切换
+
+Ctrl+Shift+N: 新建项目
+
+Ctrl+Shift+O: 打开项目
+
+Ctrl+Shift+S: 全部保存
+
+Shift+Alt+C: 新建类
+
+Ctrl+Shift+A: 新建项
+
+　　
+
+　　导航相关的键盘快捷键
+
+　　Ctrl +Up/Down = 滚动窗口但不移动光标
+
+　　Ctrl + - = 向后定位　
+
+　　CTRL + SHIFT + - =向前定位
+
+　　F12 = 转到定义
+
+　　调试相关的键盘快捷键
+
+　　Ctrl + Alt + P = 附加到进程
+
+　　F10 = 调试单步执行
+
+　　F5 = 开始调试
+
+　　Shift + F5 = 停止调试　　
+
+　　F9 = 设置或删除断点
